@@ -3,26 +3,3 @@ box-sizing: border-box;
 padding: 0%;
 margin: 0%;
 }
-.align-center{
-    align-items: center;
-}
-
-.flex{
-    display: flex;
-    flex-wrap: wrap;
-}
-.justify-center{
-    justify-content: center;
-}
-.space-between{
-    justify-content: space-between;
-}
-
-.w-45{
-    width: 45%;
-}
-
-strong{
-
-    font-weight: 700;
-}
